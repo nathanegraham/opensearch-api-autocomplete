@@ -18,7 +18,7 @@ For a quick background on how autocomplete works with Wikipedia Opensearch API s
 * Note that you will replace field_entrykey and form_key with your relevant field and form ids or keys. 
 * The searchInput field should be your search box. All of the other parameters will populate based upon what is selected in the searchInput field.
 
-```
+```javascript
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
