@@ -1,5 +1,4 @@
-# opensearch-api-autocomplete
-###Autocomplete example with Wikipedia data using Opensearch API
+##Autocomplete example with Wikipedia data using Opensearch API
 
 The below script is an example of how to autocomplete a web form using the Opensearch API. In this example, the form includes seven fields that are populated with biographical data from Wikipedia. This example uses Formidable (a WordPress form builder) but could be used any web form with some small tweaks.
 
